@@ -14,7 +14,7 @@ This project is a Netflix Clone built with **React**. It features a responsive U
 ## Live Demo
 
 Check out the live demo here:  
-**[Netflix Clone on Vercel](https://vercel.com/gauravsingh0001s-projects/v0-netflix-clone)**
+**[Netflix Clone on Vercel](https://v0-netflix-clone-wine.vercel.app/)**
 
 ## Technologies Used
 - **Frontend**: React, JavaScript, CSS
