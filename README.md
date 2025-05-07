@@ -1,30 +1,29 @@
 # Netflix Clone
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
-
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/gauravsingh0001s-projects/v0-netflix-clone)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/jbpdse6JrjZ)
 
 ## Overview
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+This project is a Netflix Clone built with **React**. It features a responsive UI, movie listings, and user authentication (optional). The project is deployed on **Vercel**.
 
-## Deployment
+### Features:
+- **Responsive UI**: Mobile-friendly layout with smooth transitions.
+- **Movie Listings**: Dynamically fetched data from The Movie DB API.
+- **User Authentication**: Optional login and signup functionality (can be added).
 
-Your project is live at:
+## Live Demo
 
-**[https://vercel.com/gauravsingh0001s-projects/v0-netflix-clone](https://vercel.com/gauravsingh0001s-projects/v0-netflix-clone)**
+Check out the live demo here:  
+**[Netflix Clone on Vercel](https://vercel.com/gauravsingh0001s-projects/v0-netflix-clone)**
 
-## Build your app
+## Technologies Used
+- **Frontend**: React, JavaScript, CSS
+- **Deployment**: Vercel
+- **API**: The Movie DB API (for movie data)
 
-Continue building your app on:
+## How to Run Locally
 
-**[https://v0.dev/chat/projects/jbpdse6JrjZ](https://v0.dev/chat/projects/jbpdse6JrjZ)**
+1. **Clone the repository**:
 
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+```bash
+git clone https://github.com/gauravsingh0001/netflix-clone.git
